@@ -50,7 +50,7 @@ Coming soon...
             <p>This is me.</p>
         </div>
         <div class="image">
-            <img src="assets/img/avatar.png" alt="Your Image">
+            <img src="assets/img/avatar.png" alt="Your Image" width="150">
         </div>
     </div>
 </body>
