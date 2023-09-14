@@ -53,6 +53,8 @@ Coming soon... -->
     </div>
 </body>
 </html>
+<br><br>
+
 
 <html lang="en">
 <head>
@@ -61,7 +63,6 @@ Coming soon... -->
     <link rel="stylesheet" type="text/css" href="styles.css">
     <title>Text and Picture with Border</title>
 </head>
-<br><br>
 <body>
     <div class="container">
         <div class="text">
@@ -75,6 +76,15 @@ Coming soon... -->
 </body>
 </html>
 <br><br>
+
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <title>Text and Picture with Border</title>
+</head>
 <body>
     <div class="container">
         <div class="text">
@@ -88,6 +98,15 @@ Coming soon... -->
 </body>
 </html>
 <br><br>
+
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <title>Text and Picture with Border</title>
+</head>
 <body>
     <div class="container">
         <div class="text">
@@ -101,6 +120,15 @@ Coming soon... -->
 </body>
 </html>
 <br><br>
+
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <title>Text and Picture with Border</title>
+</head>
 <body>
     <div class="container">
         <div class="text">
