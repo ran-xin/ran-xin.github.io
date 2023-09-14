@@ -32,7 +32,7 @@ Coming soon... -->
 
 
 
-## Projects Experiences
+## Project Experiences
 
 <html lang="en">
 <head>
@@ -141,3 +141,11 @@ Coming soon... -->
     </div>
 </body>
 </html>
+
+
+
+## Research Experiences
+- Independent Undergraduate Researcher, Bio-Inspired Robotics Lab, University of Cambridge, Jun 2023 - Present.
+
+## Educational Background
+- BA(Hons) and MEng,Engineering, University of Cambridge, Oct 2022 - Present.
