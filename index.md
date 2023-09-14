@@ -26,9 +26,46 @@ Coming soon...
 ## Projects Experiences
 
 Coming soon...
-<div class="custom-text-block">
-  This is a custom text block.
-</div>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text and Picture with Border</title>
+    <style>
+        .container {
+            border: 1px solid #ccc; /* Thin border */
+            padding: 10px; /* Add some padding for spacing */
+            display: flex; /* Use flexbox to align text and image side by side */
+            align-items: center; /* Center items vertically within the container */
+        }
+
+        .text {
+            flex: 1; /* Allow text to grow to fill available space */
+            padding: 10px; /* Add some spacing around text */
+        }
+
+        .image {
+            flex-shrink: 0; /* Prevent the image from growing */
+            padding: 10px; /* Add some spacing around the image */
+            max-width: 100%; /* Ensure the image does not exceed the container width */
+            height: auto; /* Maintain the image's aspect ratio */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="text">
+            <h2>Text alongside Picture</h2>
+            <p>This is some text that will appear alongside the picture. You can add more content here.</p>
+        </div>
+        <div class="image">
+            <img src="your-image.jpg" alt="Your Image">
+        </div>
+    </div>
+</body>
+</html>
+
 
 
 <!-- - **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
