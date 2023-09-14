@@ -21,6 +21,15 @@ Beyond my formal experiences, I am passionate about applying machine learning to
 
 Coming soon...
 
+<!-- - **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+  <br>
+  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  <br>
+  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
+  <br>
+  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+ -->
+
 
 
 ## Projects Experiences
@@ -31,27 +40,8 @@ Coming soon...
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="styles.css">
     <title>Text and Picture with Border</title>
-    <style>
-        .container {
-            border: 1px solid #ccc; /* Thin border */
-            padding: 10px; /* Add some padding for spacing */
-            display: flex; /* Use flexbox to align text and image side by side */
-            align-items: center; /* Center items vertically within the container */
-        }
-
-        .text {
-            flex: 1; /* Allow text to grow to fill available space */
-            padding: 10px; /* Add some spacing around text */
-        }
-
-        .image {
-            flex-shrink: 0; /* Prevent the image from growing */
-            padding: 10px; /* Add some spacing around the image */
-            max-width: 100%; /* Ensure the image does not exceed the container width */
-            height: auto; /* Maintain the image's aspect ratio */
-        }
-    </style>
 </head>
 <body>
     <div class="container">
@@ -60,19 +50,8 @@ Coming soon...
             <p>This is some text that will appear alongside the picture. You can add more content here.</p>
         </div>
         <div class="image">
-            <img src="your-image.jpg" alt="Your Image">
+            <img src="assets/img/avatar.png" alt="Your Image">
         </div>
     </div>
 </body>
 </html>
-
-
-
-<!-- - **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
-  <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
- -->
