@@ -49,7 +49,7 @@ Coming soon...
             <h2>Project #1</h2>
             <p>This is me.</p>
         </div>
-        <div class="image">
+        <div class="graph">
             <img src="assets/img/avatar.png" alt="Your Image">
         </div>
     </div>
