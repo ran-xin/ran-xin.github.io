@@ -61,6 +61,7 @@ Coming soon... -->
     <link rel="stylesheet" type="text/css" href="styles.css">
     <title>Text and Picture with Border</title>
 </head>
+<br><br>
 <body>
     <div class="container">
         <div class="text">
