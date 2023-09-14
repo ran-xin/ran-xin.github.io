@@ -2,7 +2,7 @@
 title: Ran Xin
 position: Undergraduate Engineering Student
 affiliation: University of Cambridge
-email: rx233[at]cam[dot]ac[dot]uk
+email: rx233[at]cam.ac.uk
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -14,6 +14,7 @@ canonical: https://ran-xin.github.io
 # If you don't need one of them, you may delete the corresponding line.
 github_link: https://github.com/ran-xin
 linkedin: https://www.linkedin.com/in/ran-ryan-xin/
+
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
