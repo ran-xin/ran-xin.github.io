@@ -74,3 +74,42 @@ Coming soon... -->
     </div>
 </body>
 </html>
+<br><br>
+<body>
+    <div class="container">
+        <div class="text">
+            <h2>Vending Machine Lego Project</h2>
+            <p>In collaboration with my team, we created a prototype vending machine for demonstration purposes. My contribution involved utilizing an infrared sensor to illuminate and detect the reflective light wavelengths, allowing us to identify coupons of varying colors.</p>
+        </div>
+        <div class="image">
+            <img src="assets/img/lego.png" alt="lego" width="200">
+        </div>
+    </div>
+</body>
+</html>
+<br><br>
+<body>
+    <div class="container">
+        <div class="text">
+            <h2>FIRST Robotics Competition 2022</h2>
+            <p>In collaboration with the mechanical design team, I integrated swerve modules into the chassis, designed telescoping arms for the climbing structure, incorporated a pneumatic multi-speed gearbox, and created an adjustable hooded shooter. We also employed vision and point cloud cameras for localization and auto-aiming capabilities.</p>
+        </div>
+        <div class="image">
+            <img src="assets/img/frc2022.png" alt="frc2022" width="200">
+        </div>
+    </div>
+</body>
+</html>
+<br><br>
+<body>
+    <div class="container">
+        <div class="text">
+            <h2>FIRST Robotics Competition 2021</h2>
+            <p>As the sole robot designer, I employed a conventional pneumatic switchable multi-speed gearbox for the tank drive chassis. I also implemented a serial design to align balls, enhancing shooting speed. Additionally, a vision camera was integrated to estimate the target's distance and direction, automatically adjusting the shooting speed and hooded shooter angle.</p>
+        </div>
+        <div class="image">
+            <img src="assets/img/frc2021.png" alt="frc2021" width="200">
+        </div>
+    </div>
+</body>
+</html>
