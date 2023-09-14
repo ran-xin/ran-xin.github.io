@@ -46,8 +46,8 @@ Coming soon...
 <body>
     <div class="container">
         <div class="text">
-            <h2>Text alongside Picture</h2>
-            <p>This is some text that will appear alongside the picture. You can add more content here.</p>
+            <h2>Project #1</h2>
+            <p>This is me.</p>
         </div>
         <div class="image">
             <img src="assets/img/avatar.png" alt="Your Image">
