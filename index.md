@@ -44,7 +44,7 @@ Coming soon... -->
 <body>
     <div class="container">
         <div class="text">
-            <h3 style="font-size: 12px">Robotics Manipulator Design</h3>
+            <h3>Robotics Manipulator Design</h3>
             <p>I developed an affordable and user-friendly 3D-printed PLA gripper for robotic arms, capable of handling a wide range of objects, from soft to hard, using a standard-sized servo and Arduino UNO R3 for power and control. </p>
         </div>
         <div class="image">
