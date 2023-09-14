@@ -17,9 +17,9 @@ Beyond my formal experiences, I am passionate about applying machine learning to
 
 
 
-## Publications
+<!-- ## Publications
 
-Coming soon...
+Coming soon... -->
 
 <!-- - **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
   <br>
@@ -34,7 +34,25 @@ Coming soon...
 
 ## Projects Experiences
 
-Coming soon...
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <title>Text and Picture with Border</title>
+</head>
+<body>
+    <div class="container">
+        <div class="text">
+            <h2>Robotics Manipulator Design</h2>
+            <p>I developed an affordable and user-friendly 3D-printed PLA gripper for robotic arms, capable of handling a wide range of objects, from soft to hard, using a standard-sized servo and Arduino UNO R3 for power and control. </p>
+        </div>
+        <div class="image">
+            <img src="assets/img/gripper.png" alt="gripper" width="200">
+        </div>
+    </div>
+</body>
+</html>
 
 <html lang="en">
 <head>
@@ -46,11 +64,11 @@ Coming soon...
 <body>
     <div class="container">
         <div class="text">
-            <h2>Project #1</h2>
-            <p>This is me.</p>
+            <h2>Unibots Robotics Competition</h2>
+            <p>I served as the lead mechanical designer for the Unibots project, specializing in ball intake and maneuvering mechanisms. Additionally, I oversaw the robot's characterization and localization design and implementation. </p>
         </div>
         <div class="image">
-            <img src="assets/img/avatar.png" alt="Your Image" width="150">
+            <img src="assets/img/unibots.png" alt="unibots" width="200">
         </div>
     </div>
 </body>
