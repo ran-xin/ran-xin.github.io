@@ -36,7 +36,7 @@ Coming soon...
 
 Coming soon...
 
-<!-- <html lang="en">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -49,9 +49,9 @@ Coming soon...
             <h2>Project #1</h2>
             <p>This is me.</p>
         </div>
-        <div class="graph">
+        <div class="image">
             <img src="assets/img/avatar.png" alt="Your Image">
         </div>
     </div>
 </body>
-</html> -->
+</html>

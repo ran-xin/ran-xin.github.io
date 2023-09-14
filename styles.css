@@ -1,6 +1,6 @@
 /* styles.css */
 .container {
-    border: 2px solid #ccc;
+    border: 3px solid #ccc;
     padding: 10px;
     display: flex;
     align-items: center;
@@ -11,10 +11,10 @@
     padding: 10px;
 }
 
-.graph {
+.image {
     flex-shrink: 0;
     padding: 10px;
     max-width: 100%; /* Ensure the image does not exceed the container width */
-    width: 100px; /* Set the desired width for the image */
+    width: 200px; /* Set the desired width for the image */
     height: auto; /* Maintain the image's aspect ratio */
 }
