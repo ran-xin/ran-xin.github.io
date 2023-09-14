@@ -145,7 +145,7 @@ Coming soon... -->
 
 
 ## Research Experiences
-- Undergraduate Researcher, Bio-Inspired Robotics Lab, University of Cambridge, Jun 2023 - Present.
+- Undergraduate Researcher, Bio-Inspired Robotics Lab@Cambridge, Jun 2023 - Present.
 
 ## Educational Background
 - BA(Hons) and MEng in Engineering, University of Cambridge, Oct 2022 - Present.
