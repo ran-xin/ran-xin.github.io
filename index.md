@@ -7,15 +7,29 @@ I am an undergraduate student at the University of Cambridge, interested in the 
 
 Beyond my formal experiences, I am passionate about applying machine learning to enhance intelligent robotics systems, particularly by optimizing sensor feedback readings and bridging the gap between mechanics and electrical systems.
 
+
+
 ## Research Interests
 
 - **Robotics Design:** Robotics Cooking, Object Manipulation, End Effector Design
 - **Machine Learning:** Tool Pose Estimation, Trajectory Optimisation
 - **Automation:** Autonomous Robotic Systems, Path Planning with Multi-Sensor Input
 
+
+
 ## Publications
 
 Coming soon...
+
+
+
+## Projects Experiences
+
+Coming soon...
+<div class="custom-text-block">
+  This is a custom text block.
+</div>
+
 
 <!-- - **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
   <br>
