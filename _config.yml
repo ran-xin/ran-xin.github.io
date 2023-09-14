@@ -1,28 +1,26 @@
 # Basic Information 
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+title: Ran Xin
+position: Undergraduate Engineering Student
+affiliation: University of Cambridge
+university email: rx233[at]cam[dot]ac[dot]uk
+personal email: xinryanryan[at]outlook[dot]com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal academic
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light.yyliu.net/
+keywords: Robotics; Engineering; Mechanical; Electrical; Machine Learning, ML; DL; Intelligence
+description: Undergraduate robotics researcher at Bio-Inspired Robotics Laboratory
+canonical: https://ran-xin.github.io
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
-cv_link: files/Curriculum_Vitae.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+github_link: https://github.com/ran-xin
+linkedin: https://www.linkedin.com/in/ran-ryan-xin/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/avatar.png
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+# favicon: ./assets/img/favicon.png
+# favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnotes
 footnote: Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.
