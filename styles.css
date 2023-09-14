@@ -15,6 +15,5 @@
     flex-shrink: 0;
     padding: 10px;
     max-width: 100%; /* Ensure the image does not exceed the container width */
-    width: 200px; /* Set the desired width for the image */
     height: auto; /* Maintain the image's aspect ratio */
 }
