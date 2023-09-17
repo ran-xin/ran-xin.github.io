@@ -9,6 +9,11 @@ Beyond my formal experiences, I am passionate about applying machine learning to
 
 
 
+## Skills
+- **Software:** Python, C++, Java
+- **Hardware:** Solidworks, Fusion 360, Autodesk Inventor
+- **Manufacturing:** All basic hand tools, Grinder, Laser Cutter, 3D Printer, etc.
+
 ## Research Interests
 
 - **Robotics Design:** Robotics Cooking, Object Manipulation, End Effector Design
