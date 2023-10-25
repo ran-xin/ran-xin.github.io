@@ -12,7 +12,7 @@ Beyond my formal experiences, I am passionate about applying machine learning to
 ## Skills
 - **Programming Languages**: Proficient in Python, C++, Java (familiar with git for version control), LaTeX; Intermediate in HTML
 - **Programming Concepts**: Proficient in Embedded Systems (Familiar with I2C, CAN, UART), Object-Oriented Programming; Familiar with Applications with Convolutional Neural Network (CNN) and Recurrent Neural Network (RNN)
-- *Operating Systems & Tools**: Intermediate in CentOS, Ubuntu, ROS; Intermediate Cloud-computing
+- **Operating Systems & Tools**: Intermediate in CentOS, Ubuntu, ROS; Intermediate Cloud-computing
 - **Design**: Proficient in Solidworks, Autodesk Fusion 360, Autodesk Inventor
 - **Manufacturing Techniques**: Proficient in 3D Printing, Laser Cutting; Proficient in Design, Rapid-Prototyping, Verification
 
