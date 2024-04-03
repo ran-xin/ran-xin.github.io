@@ -3,23 +3,21 @@ layout: homepage
 ---
 
 ## About Me
-I am an undergraduate student at the University of Cambridge, interested in the field of <strong>robotics engineering</strong>, with expertise in mechanical design, software implementation, and a deep understanding of machine learning. I served as the Chief Mechanical Designer for my high school's FIRST Robotics Team, where I led diverse mechanical design projects and oversaw the development, testing, and validation of control algorithms. Currently, I am an undergraduate researcher at the University of Cambridge's <strong>Bio-Inspired Robotics Lab</strong>.
+I am an undergraduate student at the University of Cambridge, interested in the field of <strong>robotics engineering</strong>, with expertise in mechanical design, software implementation, and machine learning. I was the mechanical design leader for my high school's FIRST Robotics Team, where I led the development and implementation of diverse mechanical design projects and oversaw the development, testing, and validation of control algorithms. I was an undergraduate researcher at the University of Cambridge's <strong>Bio-Inspired Robotics Lab</strong> in 2023. Currently, I am an incoming <strong>Product Design Engineer@Apple</strong>.
 
-Beyond my formal experiences, I am passionate about applying machine learning to enhance intelligent robotics systems, particularly by optimizing sensor feedback readings and bridging the gap between mechanics and electrical systems.
+Beyond my aforementioned experiences, I am passionate about applying machine learning to enhance intelligent robotics systems, particularly by optimizing sensor feedback readings and bridging the gap between mechanics and electrical systems.
 
 
 
 ## Skills
-- **Programming Languages**: Proficient in Python, C++, Java (familiar with git for version control), LaTeX; Intermediate in HTML
-- **Programming Concepts**: Proficient in Embedded Systems (Familiar with I2C, CAN, UART), Object-Oriented Programming; Familiar with Applications with Convolutional Neural Network (CNN) and Recurrent Neural Network (RNN)
-- **Operating Systems & Tools**: Intermediate in CentOS, Ubuntu, ROS; Intermediate Cloud-computing
-- **Design**: Proficient in Solidworks, Autodesk Fusion 360, Autodesk Inventor
+- **Software Engineering**: Proficient in Python, C++, Java (Familiar with I2C, CAN, UART protocols in embedded programming and application with CNN and RNN networks in deep learning)
+- **Operating Systems**: Intermediate in CentOS, Ubuntu, ROS; Intermediate cloud-computing
+- **Design**: Proficient in Solidworks, Autodesk Fusion 360
 - **Manufacturing Techniques**: Proficient in 3D Printing, Laser Cutting; Proficient in Design, Rapid-Prototyping, Verification
 
 
 
 ## Research Interests
-
 - **Robotics Design:** Robotics Cooking, Object Manipulation, End Effector Design
 - **Machine Learning:** Tool Pose Estimation, Trajectory Optimisation
 - **Automation:** Autonomous Robotic Systems, Path Planning with Multi-Sensor Input
@@ -53,6 +51,27 @@ Coming soon... -->
 <body>
     <div class="container">
         <div class="text">
+            <h3>Unibots Robotics Competition 2024</h3>
+            <p>I led a team to compete in the competition, focusing on a sustainable design. I utilized FDM printing and laser-cut MDF, guided by Design for Manufacturability (DFM) and Design for Assembly (DFA), to minimize environmental impact and streamline assembly. Through Solidworks simulations, I and my team perfected the designs, ensuring the robot was both efficient and eco-friendly. </p>
+        </div>
+        <div class="image">
+            <img src="assets/img/unibots24.jpg" alt="unibots24" width="200">
+        </div>
+    </div>
+</body>
+</html>
+<br>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <title>Text and Picture with Border</title>
+</head>
+<body>
+    <div class="container">
+        <div class="text">
             <h3>Robotics Manipulator Design</h3>
             <p>I developed an affordable and user-friendly 3D-printed PLA gripper for robotic arms, capable of handling a wide range of objects, from soft to hard, using a standard-sized servo and Arduino UNO R3 for power and control. </p>
         </div>
@@ -75,7 +94,7 @@ Coming soon... -->
 <body>
     <div class="container">
         <div class="text">
-            <h3>Unibots Robotics Competition</h3>
+            <h3>Unibots Robotics Competition 2023</h3>
             <p>I served as the lead mechanical designer for the Unibots project, specializing in ball intake and maneuvering mechanisms. Additionally, I oversaw the robot's characterization and localization design and implementation. </p>
         </div>
         <div class="image">
