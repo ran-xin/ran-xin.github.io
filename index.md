@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I am an undergraduate student at the University of Cambridge, interested in the field of <strong>robotics engineering</strong>, with expertise in mechanical design, software implementation, and machine learning. I was the mechanical design leader for my high school's FIRST Robotics Team, where I led the development and implementation of diverse mechanical design projects and oversaw the development, testing, and validation of control algorithms. I was an undergraduate researcher at the University of Cambridge's <strong>Bio-Inspired Robotics Lab</strong> in 2023. Currently, I am an incoming <strong>Product Design Engineer@Apple</strong>.
+I am an undergraduate student at the University of Cambridge, interested in the field of <strong>robotics engineering</strong>, with expertise in mechanical design, software implementation, and machine learning. I was the mechanical design leader for my high school's FIRST Robotics Team, where I led the development and implementation of diverse mechanical design projects and oversaw the development, testing, and validation of control algorithms. I was an undergraduate researcher at the University of Cambridge's <strong>Bio-Inspired Robotics Lab</strong> in 2023. Currently, I am an  <strong>Product Design Engineer Intern@Apple</strong>.
 
 Beyond my aforementioned experiences, I am passionate about applying machine learning to enhance intelligent robotics systems, particularly by optimizing sensor feedback readings and bridging the gap between mechanics and electrical systems.
 
@@ -173,7 +173,7 @@ Coming soon... -->
 
 
 ## Research Experiences
-- Undergraduate Researcher, Bio-Inspired Robotics Lab@Cambridge, Jun 2023 - Present.
+- Undergraduate Researcher, Bio-Inspired Robotics Lab@Cambridge, Jun 2023 - Jan 2024.
 
 ## Educational Background
 - BA(Hons) and MEng in Engineering, University of Cambridge, Oct 2022 - Present.
