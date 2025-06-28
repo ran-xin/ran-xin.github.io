@@ -30,7 +30,7 @@ Beyond my aforementioned experiences, I am passionate about applying machine lea
   <br>
   IEEE 8th International Conference on Soft Robotics **RoboSoft 2025**.
   <br>
-  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11020827)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11020827)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 
 
 
@@ -57,27 +57,6 @@ Beyond my aforementioned experiences, I am passionate about applying machine lea
 </html>
 <br>
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="styles.css">
-    <title>Text and Picture with Border</title>
-</head>
-<body>
-    <div class="container">
-        <div class="text">
-            <h3>Robotics Manipulator Design</h3>
-            <p>I developed an affordable and user-friendly 3D-printed PLA gripper for robotic arms, capable of handling a wide range of objects, from soft to hard, using a standard-sized servo and Arduino UNO R3 for power and control. </p>
-        </div>
-        <div class="image">
-            <img src="assets/img/gripper.png" alt="gripper" width="200">
-        </div>
-    </div>
-</body>
-</html>
-<br>
-
 
 <html lang="en">
 <head>
@@ -94,28 +73,6 @@ Beyond my aforementioned experiences, I am passionate about applying machine lea
         </div>
         <div class="image">
             <img src="assets/img/unibots.png" alt="unibots" width="200">
-        </div>
-    </div>
-</body>
-</html>
-<br>
-
-
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="styles.css">
-    <title>Text and Picture with Border</title>
-</head>
-<body>
-    <div class="container">
-        <div class="text">
-            <h3>Vending Machine Lego Project</h3>
-            <p>In collaboration with my team, we created a prototype vending machine for demonstration purposes. My contribution involved utilizing an infrared sensor to illuminate and detect the reflective light wavelengths, allowing us to identify coupons of varying colors.</p>
-        </div>
-        <div class="image">
-            <img src="assets/img/lego.png" alt="lego" width="200">
         </div>
     </div>
 </body>
@@ -167,8 +124,9 @@ Beyond my aforementioned experiences, I am passionate about applying machine lea
 <br>
 
 
-## Research Experiences
-- Undergraduate Researcher, Bio-Inspired Robotics Lab@Cambridge, Jun 2023 - Jan 2024.
+## Past Experiences
+- Product Design Engineer Intern, Apple Inc., Jun 2024 - Jun 2025.
+- Undergraduate Researcher, Bio-Inspired Robotics Lab@Cambridge, Jun 2023 - Feb 2024.
 
 ## Educational Background
 - BA(Hons) and MEng in Engineering, University of Cambridge, Oct 2022 - Present.
