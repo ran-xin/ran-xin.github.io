@@ -10,9 +10,9 @@ Beyond my aforementioned experiences, I am passionate about applying machine lea
 
 
 ## Skills
-- **Mechanical Design**: Proficient in Siemens NX, Teamcenter, SolidWorks; Experienced with injection molding, die cutting, precision
+- **Mechanical Design**: Proficient in Siemens NX, Teamcenter, SolidWorks; Experienced with injection molding, die cutting, precision metal part design; Skilled in tolerance analysis, 2D dimensioning and quality control (GD&T, Critical-to-Quality), rapid prototyping.
 - **Data Processing and Visualization**: Familiar with JMP Pro and Tableau; Skilled in Keynote, summarizing one pages for executive review.
-- **Software Engineering**: Proficient in Python, C++, Java (Familiar with I2C, CAN, UART protocols in embedded programming and application with CNN and RNN networks in deep learning)
+- **Software Engineering**: Proficient in Python, C++, Java (Familiar with I2C, CAN, UART protocols in embedded programming and application with CNN and RNN networks in deep learning).
 
 
 ## Research Interests
