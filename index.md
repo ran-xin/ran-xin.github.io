@@ -3,18 +3,16 @@ layout: homepage
 ---
 
 ## About Me
-I am an undergraduate student at the University of Cambridge, interested in the field of <strong>robotics engineering</strong>, with expertise in mechanical design, software implementation, and machine learning. I was the mechanical design leader for my high school's FIRST Robotics Team, where I led the development and implementation of diverse mechanical design projects and oversaw the development, testing, and validation of control algorithms. I was an undergraduate researcher at the University of Cambridge's <strong>Bio-Inspired Robotics Lab</strong> in 2023. Currently, I am an  <strong>Product Design Engineer Intern@Apple</strong>.
+I am an undergraduate student at the University of Cambridge, interested in the field of <strong>robotics engineering</strong>, with expertise in mechanical design, software implementation, and machine learning. I was a <strong>Product Design Engineer Intern@Apple</strong>, between June 2024, and June 2025. I was the mechanical design leader for my high school's FIRST Robotics Team, where I led the development and implementation of diverse mechanical design projects and oversaw the development, testing, and validation of control algorithms. I was an undergraduate researcher at the University of Cambridge's <strong>Bio-Inspired Robotics Lab</strong> between June 2023 and Feb 2024.
 
-Beyond my aforementioned experiences, I am passionate about applying machine learning to enhance intelligent robotics systems, particularly by optimizing sensor feedback readings and bridging the gap between mechanics and electrical systems.
+Beyond my aforementioned experiences, I am passionate about applying machine learning to enhance intelligent robotics systems, particularly by optimizing sensor feedback readings and bridging the gap between mechanics and electrical systems. I'm also interested in creating amazing consumer electronic products that would enhance each life.
 
 
 
 ## Skills
+- **Mechanical Design**: Proficient in Siemens NX, Teamcenter, SolidWorks; Experienced with injection molding, die cutting, precision
+- **Data Processing and Visualization**: Familiar with JMP Pro and Tableau; Skilled in Keynote, summarizing one pages for executive review.
 - **Software Engineering**: Proficient in Python, C++, Java (Familiar with I2C, CAN, UART protocols in embedded programming and application with CNN and RNN networks in deep learning)
-- **Operating Systems**: Intermediate in CentOS, Ubuntu, ROS; Intermediate cloud-computing
-- **Design**: Proficient in Solidworks, Autodesk Fusion 360
-- **Manufacturing Techniques**: Proficient in 3D Printing, Laser Cutting; Proficient in Design, Rapid-Prototyping, Verification
-
 
 
 ## Research Interests
@@ -24,18 +22,15 @@ Beyond my aforementioned experiences, I am passionate about applying machine lea
 
 
 
-<!-- ## Publications
+## Publications
 
-Coming soon... -->
-
-<!-- - **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **Closed-Loop Control of Robotic Cutting through Tactile Force Estimation**
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  **Ran Xin**, Arsen Abdulali, Fumiya Iida
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
+  IEEE 8th International Conference on Soft Robotics **RoboSoft 2025**.
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
- -->
+  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11020827)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 
 
 
